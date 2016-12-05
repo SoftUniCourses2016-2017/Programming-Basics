@@ -1,0 +1,5 @@
+c:\users\magdalena\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\04. Histogram\bin\Debug\_04.Histogram.exe.config
+c:\users\magdalena\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\04. Histogram\bin\Debug\_04.Histogram.exe
+c:\users\magdalena\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\04. Histogram\bin\Debug\_04.Histogram.pdb
+c:\users\magdalena\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\04. Histogram\obj\Debug\_04.Histogram.exe
+c:\users\magdalena\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\04. Histogram\obj\Debug\_04.Histogram.pdb

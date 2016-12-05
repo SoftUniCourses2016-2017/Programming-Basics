@@ -1,0 +1,6 @@
+c:\users\magdalena\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\02. Transport Price\bin\Debug\_02.Transport_Price.exe.config
+c:\users\magdalena\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\02. Transport Price\bin\Debug\_02.Transport_Price.exe
+c:\users\magdalena\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\02. Transport Price\bin\Debug\_02.Transport_Price.pdb
+c:\users\magdalena\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\02. Transport Price\obj\Debug\02. Transport Price.csprojResolveAssemblyReference.cache
+c:\users\magdalena\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\02. Transport Price\obj\Debug\_02.Transport_Price.exe
+c:\users\magdalena\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\02. Transport Price\obj\Debug\_02.Transport_Price.pdb

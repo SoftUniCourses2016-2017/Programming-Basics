@@ -1,0 +1,6 @@
+c:\users\magdalena\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\05. Draw Fort\bin\Debug\_05.Draw_Fort.exe.config
+c:\users\magdalena\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\05. Draw Fort\bin\Debug\_05.Draw_Fort.exe
+c:\users\magdalena\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\05. Draw Fort\bin\Debug\_05.Draw_Fort.pdb
+c:\users\magdalena\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\05. Draw Fort\obj\Debug\_05.Draw_Fort.exe
+c:\users\magdalena\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\05. Draw Fort\obj\Debug\_05.Draw_Fort.pdb
+c:\users\magdalena\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\05. Draw Fort\obj\Debug\05. Draw Fort.csprojResolveAssemblyReference.cache
